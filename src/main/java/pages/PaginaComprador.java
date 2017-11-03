@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 
 import static utils.Helper.click;
 
-public class PaginaComprador {
+public class    PaginaComprador {
 
     WebDriver driver;
 

@@ -15,4 +15,8 @@ public class PortaisUrl {
         Helper.get("http://10.59.164.13/backoffice/#/");
     }
 
+    public static void Registro() {Helper.get("http://10.59.164.13/portal/#/registro");}
+
+    public static void Credenciamento() {Helper.get("http://10.59.164.13/credenciamento/#/");}
+
 }
